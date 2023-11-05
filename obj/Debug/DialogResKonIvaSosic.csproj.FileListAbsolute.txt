@@ -1,0 +1,10 @@
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\bin\Debug\DialogResKonIvaSosic.exe.config
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\bin\Debug\DialogResKonIvaSosic.exe
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\bin\Debug\DialogResKonIvaSosic.pdb
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.csproj.AssemblyReference.cache
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.Form1.resources
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.Properties.Resources.resources
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.csproj.GenerateResource.cache
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.csproj.CoreCompileInputs.cache
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.exe
+C:\Users\Iva\source\repos\DialogResKonIvaSosic\DialogResKonIvaSosic\obj\Debug\DialogResKonIvaSosic.pdb
